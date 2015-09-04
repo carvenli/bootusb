@@ -38,7 +38,7 @@ boot/grub/wzlboot.cfg(引导菜单)
 分区三 Ext4（实验性，分配剩余部分空间）
 
 
-\\Tools目录说明
+\\\Tools目录说明
 bootx64.efi.zip（bootx64.efi和用来制作的shell脚本，脚本运行需要管理员权限）
 wzlboot.cfg.zip（引导菜单，在U盘NTFS分区里面，如果只有1个FAT32就放在里面，boot/grub/wzlboot.cfg）
 bootmgfw.efi.zip（这个文件是提取自windows，但是提取比较麻烦就直接贴出来了）
